@@ -1,1 +1,1 @@
-Patika.Dev .Net Patikası
+(Patika.Dev)[https://www.patika.dev] .Net Core Patikası Projeleri
